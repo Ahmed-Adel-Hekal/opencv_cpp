@@ -5,7 +5,7 @@
 #include <iostream>
 
 
-#define number 3
+#define number 1000
 
 // Each number correspond to code segment 
 // feel free to try any of codes 
